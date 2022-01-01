@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **Golang, Redux, Kivy**
 
+- 👨‍💻 All of my projects are available at [work in progress](work in progress)
+
 - 💬 Ask me about **React, Flask**
 
 - 📫 How to reach me **michele.puricelli89@gmail.com**
+
+- 📄 Know about my experiences [work in progress](work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
