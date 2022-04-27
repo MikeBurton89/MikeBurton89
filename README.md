@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WhoIS-from-URL-kivy](https://github.com/MikeBurton89/WhoIS-from-URL-kivy)
 
-- 🌱 I’m currently learning **Golang, Redux, Kivy**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [work in progress](work in progress)
 
