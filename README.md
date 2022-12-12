@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [WhoIS-from-URL-kivy](https://github.com/MikeBurton89/WhoIS-from-URL-kivy)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [work in progress](work in progress)
+- 👨‍💻 All of my projects are available here in GitHub
 
-- 💬 Ask me about **React, Flask**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **michele.puricelli89@gmail.com**
 
