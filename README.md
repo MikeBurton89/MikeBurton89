@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **michele.puricelli89@gmail.com**
 
-- 📄 Know about my experiences [work in progress](work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
