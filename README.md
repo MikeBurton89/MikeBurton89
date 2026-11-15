@@ -8,7 +8,7 @@ I build web applications across the stack, from user-facing workflows and data v
 
 I started in frontend development and expanded into backend engineering. Today I work with **Angular, React, Java / Spring Boot and Go**, with a focus on readable code, clear API contracts and practical solutions to business problems.
 
-[LinkedIn](https://www.linkedin.com/in/michele-puricelli-93497950/) · [Email](mailto:michele.puricelli89@gmail.com) · [Public repositories](https://github.com/MikeBurton89?tab=repositories)
+[Portfolio](https://portfolio-go-htmx.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/michele-puricelli-93497950/) · [Email](mailto:michele.puricelli89@gmail.com) · [Public repositories](https://github.com/MikeBurton89?tab=repositories)
 
 ---
 
@@ -81,6 +81,8 @@ An early backend project: a JSON REST API for a product catalog and related offe
 A personal portfolio with server-rendered pages and HTMX interactions, presenting my work experience, skills and contact information.
 
 **Go · templ · HTMX · Tailwind CSS**
+
+[Visit the portfolio](https://michele-puricelli-dev-portfolio.onrender.com) · [Source code](https://github.com/MikeBurton89/portfolio_go_htmx)
 
 <details>
 <summary>Earlier experiments</summary>
