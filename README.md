@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeburton89&label=Profile%20views&color=0e75b6&style=flat" alt="mikeburton89" /> </p>
 
-- 🔭 I’m currently working on [WhoIS-from-URL-kivy](https://github.com/MikeBurton89/WhoIS-from-URL-kivy)
-
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte** 
 
 - 👨‍💻 All of my projects are available here in GitHub
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **Golang** **Angular** **Springboot**
 
 - 📫 How to reach me **michele.puricelli89@gmail.com**
 
