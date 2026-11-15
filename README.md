@@ -1,26 +1,95 @@
-<h1 align="center">Hi 👋, I'm MikeBurton89</h1>
-<h3 align="center">A front end developer from Italy</h3>
+# Michele Puricelli
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeburton89&label=Profile%20views&color=0e75b6&style=flat" alt="mikeburton89" /> </p>
+### Full Stack Developer · Italy
 
-- 🌱 I’m currently learning **Svelte** 
+**Angular & React interfaces. Java & Go services. The integrations that connect them.**
 
-- 👨‍💻 All of my projects are available here in GitHub
+I build web applications across the stack, from user-facing workflows and data visualizations to backend APIs, authentication and document integrations. My background spans fintech, healthcare, public-sector software and internal business tools.
 
-- 💬 Ask me about **React** **Golang** **Angular** **Springboot**
+I started in frontend development and expanded into backend engineering. Today I work with **Angular, React, Java / Spring Boot and Go**, with a focus on readable code, clear API contracts and practical solutions to business problems.
 
-- 📫 How to reach me **michele.puricelli89@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/michele-puricelli-93497950/) · [Email](mailto:michele.puricelli89@gmail.com) · [Public repositories](https://github.com/MikeBurton89?tab=repositories)
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michele-puricelli-93497950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michele puricelli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/michele_puricel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michele_puricel1" height="30" width="40" /></a>
-</p>
+## What I bring to a team
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- **Frontend delivery:** Angular applications in Nx workspaces, reusable components, multi-step workflows, charts and map-based interfaces. React experience includes Redux, React Query and Material UI.
+- **Backend and integrations:** Java / Spring Boot services, REST and SOAP integrations, document workflows, attachment handling and OpenAPI contracts.
+- **Go web applications:** server-rendered interfaces with templ and HTMX, PostgreSQL persistence, event registration, travel and accommodation workflows, and Slack notifications.
+- **Authentication and access control:** OAuth 2.0 / OpenID Connect, Keycloak, session management, role-based access and CSRF protection.
+- **Maintainability:** code reviews, mentoring junior developers, regression checks and focused tests. I also work on existing systems, tracing issues across frontend, backend and external services.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeburton89&show_icons=true&locale=en&layout=compact" alt="mikeburton89" /></p>
+## Professional experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeburton89&show_icons=true&locale=en" alt="mikeburton89" /></p>
+| Company | Role | Focus |
+| :--- | :--- | :--- |
+| **Zupit** · since Dec 2024 | Full Stack Developer | Java, Spring Boot and Angular; business applications, integrations, code reviews and junior mentoring. |
+| **Bcode** | Full Stack Developer | Node.js, Express and React; Web3 platforms and mobile performance improvements. |
+| **Tecnosoft** | Full Stack Developer | PHP / CodeIgniter, MySQL and jQuery; ski rental software maintenance and process automation. |
+| **Sintegra** | Front End Developer | React, Redux, React Query and Material UI; frontend development for a fintech platform. |
+
+## Recent engineering work
+
+Some of my recent work lives in private repositories. Here is the kind of work I contribute to, without sharing client code or internal implementation details:
+
+**Business applications in Go** — Event participation, travel and accommodation management, activity boards, notifications and reminders. Work includes server-rendered UI, authentication, persistence and container-based deployment.
+
+**Scientific and geospatial interfaces** — Angular / Nx workflows for project setup, simulations, time-series charts and map views, within a Django-backed application. Work includes design implementation and integration with generated API clients.
+
+**Document management services** — REST / SOAP integrations for document registration, search, files and attachments. Work includes keeping OpenAPI, tests and implementation aligned, and removing redundant service calls from attachment downloads.
+
+**Healthcare applications** — Java / Spring Boot and Angular work across business modules, with attention to API contracts, authentication and existing repository conventions.
+
+## Technology stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, Angular, React, Nx, PrimeNG, Material UI, Tailwind CSS, HTML, CSS / Sass |
+| **Backend** | Java, Spring Boot, Go, Node.js / Express, Python / Flask / Django |
+| **Server-rendered UI** | templ, HTMX |
+| **Data** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **APIs & identity** | REST, SOAP, OpenAPI, OAuth 2.0, OpenID Connect, Keycloak |
+| **Delivery & quality** | Git, Docker / Compose, code review, JUnit / Mockito, Go tests, Vitest, React Testing Library |
+
+Additional experience: **Svelte / SvelteKit**, PHP / CodeIgniter, jQuery, Bootstrap and Python / Kivy.
+
+## Selected public projects
+
+These personal projects and technical exercises are available to explore. They complement the professional work described above.
+
+### [City discovery platform](https://github.com/MikeBurton89/yanchware_challenge_platform)
+
+A city-search application for digital nomads, built as a technical challenge. Uses mocked API data and includes frontend tests.
+
+**React · TypeScript · Vite · Material UI · Vitest · React Testing Library**
+
+### [Weather search](https://github.com/MikeBurton89/datrix-task)
+
+A weather application with city search, matching results and current weather for the selected location.
+
+**React · TypeScript · Vite**
+
+### [Product & offer API](https://github.com/MikeBurton89/applifting-api)
+
+An early backend project: a JSON REST API for a product catalog and related offers, with price updates from an offer service.
+
+**Python · Flask · SQLAlchemy · SQLite**
+
+### [Go & HTMX portfolio](https://github.com/MikeBurton89/portfolio_go_htmx)
+
+A personal portfolio with server-rendered pages and HTMX interactions, presenting my work experience, skills and contact information.
+
+**Go · templ · HTMX · Tailwind CSS**
+
+<details>
+<summary>Earlier experiments</summary>
+
+- [Telegram bot](https://github.com/MikeBurton89/Telegram-bot) — a Python bot responding to commands with randomly selected messages.
+- [SvelteTask](https://github.com/MikeBurton89/SvelteTask) — an early exploration of Svelte and Tailwind CSS.
+
+</details>
+
+## Let's connect
+
+Want to talk about a product, an integration or a development role? Reach me on [LinkedIn](https://www.linkedin.com/in/michele-puricelli-93497950/) or at **[michele.puricelli89@gmail.com](mailto:michele.puricelli89@gmail.com)**.
